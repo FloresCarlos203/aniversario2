@@ -1,27 +1,27 @@
 /* ============================================================
-   💜 Tema: aniversario — morado, menta, rosa y rojo
+   🩷 Tema: aniversario — rosado pastel, menta, rosa y rojo
    ============================================================ */
 
 :root {
-  --fondo-1: #150a24;
-  --fondo-2: #200f36;
+  --fondo-1: #1b0a16;
+  --fondo-2: #261021;
 
-  --morado: #a855f7;
-  --morado-claro: #c99cff;
+  --rosa-pastel: #f2a5c9;
+  --rosa-pastel-claro: #f9cade;
   --rosa: #f472b6;
   --rosa-claro: #f9a8d4;
   --menta: #5eead4;
   --rojo: #fb7185;
 
-  --texto: #f6eeff;
-  --texto-suave: #c9b6e4;
+  --texto: #fdf1f7;
+  --texto-suave: #ddbccd;
 
   --vidrio: rgba(255, 255, 255, 0.055);
   --vidrio-fuerte: rgba(255, 255, 255, 0.09);
   --borde: rgba(255, 255, 255, 0.13);
 
-  --degradado: linear-gradient(120deg, #c99cff, #f472b6 45%, #fb7185);
-  --degradado-boton: linear-gradient(135deg, #a855f7, #f472b6);
+  --degradado: linear-gradient(120deg, #f9cade, #f472b6 45%, #fb7185);
+  --degradado-boton: linear-gradient(135deg, #f2a5c9, #f472b6);
 
   --sombra: 0 18px 45px -18px rgba(0, 0, 0, 0.65);
   --radio: 22px;
@@ -51,8 +51,8 @@ body {
   margin: 0;
   min-height: 100svh;
   background:
-    radial-gradient(900px 600px at 8% -5%, rgba(168, 85, 247, 0.28), transparent 60%),
-    radial-gradient(800px 550px at 100% 12%, rgba(244, 114, 182, 0.20), transparent 60%),
+    radial-gradient(900px 600px at 8% -5%, rgba(242, 165, 201, 0.22), transparent 60%),
+    radial-gradient(800px 550px at 100% 12%, rgba(201, 156, 255, 0.12), transparent 60%),
     radial-gradient(700px 500px at 12% 100%, rgba(94, 234, 212, 0.13), transparent 60%),
     radial-gradient(600px 450px at 90% 95%, rgba(251, 113, 133, 0.14), transparent 60%),
     linear-gradient(180deg, var(--fondo-1), var(--fondo-2) 60%, var(--fondo-1));
@@ -87,5 +87,5 @@ img {
 }
 
 ::selection {
-  background: rgba(168, 85, 247, 0.5);
+  background: rgba(242, 165, 201, 0.45);
 }
