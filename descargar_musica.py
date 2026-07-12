@@ -10,6 +10,7 @@
 #  o al final de este archivo):
 #    - yt-dlp   (pip install yt-dlp)
 #    - ffmpeg   (winget install Gyan.FFmpeg)
+# pip install yt-dlp winget install Gyan.FFmpeg
 # ============================================================
 
 CANCIONES = {
