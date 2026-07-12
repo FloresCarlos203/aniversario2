@@ -1,0 +1,12 @@
+🖼️ Sube aquí las portadas de las 7 canciones (la imagen que gira como disco):
+
+  portada1.jpg
+  portada2.jpg
+  portada3.jpg
+  portada4.jpg
+  portada5.jpg
+  portada6.jpg
+  portada7.jpg
+
+Si falta alguna, el sitio muestra un degradado bonito con una nota musical (no se rompe nada).
+Si tus portadas son .png, cambia la ruta en src/data/config.ts (campo "portada").

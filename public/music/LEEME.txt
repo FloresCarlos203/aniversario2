@@ -1,0 +1,11 @@
+🎵 Sube aquí los 7 audios de las canciones con estos nombres exactos:
+
+  dia1.mp3
+  dia2.mp3
+  dia3.mp3
+  dia4.mp3
+  dia5.mp3
+  dia6.mp3
+  dia7.mp3
+
+Los títulos, artistas y dedicatorias se editan en: src/data/config.ts

@@ -1,0 +1,10 @@
+📸 Sube aquí las 20 fotos de ustedes con estos nombres exactos:
+
+  imagen1.jpg
+  imagen2.jpg
+  ...
+  imagen20.jpg
+
+Si tus fotos son .png o .jpeg, cambia EXTENSION_FOTOS en src/data/config.ts.
+Si quieres más de 20 fotos, cambia TOTAL_FOTOS en el mismo archivo.
+Mientras falte una foto, se muestra un marco morado con 💜 en su lugar.
