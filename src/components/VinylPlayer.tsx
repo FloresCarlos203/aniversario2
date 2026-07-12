@@ -84,8 +84,10 @@ export default function VinylPlayer({
       <div className="player player-vacio">
         <div className="vinyl-wrap">
           <div className="vinyl">
-            <div className="vinyl-label portada-fallback fb-1">
-              <span className="fb-nota">♪</span>
+            <div className="vinyl-label">
+              <div className="portada-fallback fb-1">
+                <span className="fb-nota">♪</span>
+              </div>
             </div>
             <div className="vinyl-hole" />
           </div>
