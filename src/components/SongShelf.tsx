@@ -95,7 +95,7 @@ export default function SongShelf({
             </div>
             <span className="shelf-dia">Día {c.dia}</span>
             <span className="shelf-titulo">
-              {abierta ? c.titulo : "Canción secreta 🤫"}
+              {abierta ? c.titulo : "Canción secreta"}
             </span>
           </button>
         );
