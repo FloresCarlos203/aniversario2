@@ -107,7 +107,7 @@ export const CANCIONES: Cancion[] = [
     artista: "Carlos Vives",
     dedicatoria:
       "Un día antes de nuestro aniversario, gracias por elegirme cada día, como yo te elijo a ti. Desde que te conocí, no solo encontré el amor, encontré a la mujer con la que sueño compartir mi vida, construir un hogar y envejecer juntos. Por eso esta canción siempre tendrá tu nombre",
-    audio: "/music/dia4.mp3",
+    audio: "/music/dia32.mp3",
     portada: "/covers/portada8.jpg",
   },
   {
