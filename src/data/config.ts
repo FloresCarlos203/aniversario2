@@ -103,10 +103,10 @@ export const CANCIONES: Cancion[] = [
   {
     dia: 6,
     desbloqueo: "2026-07-18",
-    titulo: "Te amo y más",
-    artista: "Manolo",
+    titulo: "Volví a nacer",
+    artista: "Carlos Vives",
     dedicatoria:
-      "Un día antes de nuestro aniversario, gracias por elegirme cada día, como yo te elijo a ti",
+      "Un día antes de nuestro aniversario, gracias por elegirme cada día, como yo te elijo a ti. Desde que te conocí, no solo encontré el amor, encontré a la mujer con la que sueño compartir mi vida, construir un hogar y envejecer juntos. Por eso esta canción siempre tendrá tu nombre",
     audio: "/music/dia4.mp3",
     portada: "/covers/portada6.jpg",
   },
